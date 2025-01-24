@@ -57,8 +57,8 @@ This project aims to cluster similar medicines based on their name, salts, and p
 4. Run the provided Jupyter Notebook to execute the clustering pipeline.
 5. The clustered dataset is saved as `medlr_assignment_dataset_clustered.csv`.
 6. The cluster summary is saved as `cluster_summary.csv`.
+7. Database structure is shown in the `db_schema.md` file.
 
 ## Bonus Task
 
 For the bonus task, `labelled_dataset_sample` file contains 95 random values from the clustered dataset and treats them as ground truths. The `Bonus_Task.py` file checks both the assumed ground truths and our clustered dataset and evaluates the precision, recall and the F1-score. As of now all of them comes up 1 as we are using a portion of our own clustered data to evaluate. In the future, we can take a manually labelled dataset and truly check the accuracy of the clusters
-7. Database structure is shown in the `db_schema.md` file.
