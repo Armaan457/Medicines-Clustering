@@ -57,3 +57,4 @@ This project aims to cluster similar medicines based on their name, salts, and p
 4. Run the provided Jupyter Notebook to execute the clustering pipeline.
 5. The clustered dataset is saved as `medlr_assignment_dataset_clustered.csv`.
 6. The cluster summary is saved as `cluster_summary.csv`.
+7. Database structure is shown in the `db_schema.md` file.
