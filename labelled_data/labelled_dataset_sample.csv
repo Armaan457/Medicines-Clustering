@@ -1,0 +1,96 @@
+id,name,source,prescription_required,retail_price,discounted_price,manufacturer,packaging_form,salts,quantity_num,cluster
+source_6-280452,zerodol spa strip 10 tablet,source_6,True,159.1,140.01,ipca laboratories,STRIP,drotaverine 80 0 mg aceclofenac 100 0 mg,10.0,20
+source_2-39675,dolomec dp 25mg injection,source_2,True,14.4,11.81,mcw healthcare,Unknown,diclofenac 25mg,10.8,27
+source_6-76042,dolovis sp 100 325 15 mg tablet 10,source_6,True,108.0,108.0,inovis healthcare pvt ltd,STRIP,aceclofenac 100 0 mg serratiopeptidase 15 0 mg paracetamol acetaminophen 325 0 mg,10.0,27
+source_1-65185,dolomine 650 mg tablet 10,source_1,False,18.0,15.84,cassel research laboratories pvt ltd,Strip | Tablet,paracetamol 650mg,10.0,30
+source_6-75799,dolodart d suspension 60ml,source_6,False,44.35,44.35,juggat pharma,BOTTLE,paracetamol acetaminophen 250 0 mg 5ml,60.0,30
+source_7-90395,dolocrat 100 mg 500 mg tablet,source_7,True,33.0,32.0,syncom formulations india ltd,Unknown,aceclofenac 100mg paracetamol 500mg,10.0,27
+source_7-90457,dolokind aqua 75mg injection,source_7,True,36.17,25.38,mankind pharma ltd,Unknown,diclofenac 75mg,1.0,27
+source_1-65089,dolo oral drop 15 ml,source_1,False,30.0,26.4,micro labs ltd,Bottle | Oral Drops,paracetamol 100mg,15.0,30
+source_1-65212,dolonex dt 20 mg tablet 15,source_1,True,237.0,208.6,pfizer ltd,Strip | Tablet,piroxicam 20mg,15.0,17
+source_1-65145,doloforce injection 4 x 2 ml,source_1,True,141.5,124.5,mankind pharma pvt ltd,Box | Injection,piroxicam 40mg,4.0,18
+source_7-206614,nimulid strong 1 spray,source_7,True,150.0,145.0,mankind pharma ltd,Unknown,nimesulide 1 w v,42.0,23
+source_1-65298,dolour 100mg tablet,source_1,True,39.0,34.32,saviour health care,Strip | Tablet,aceclofenac 100mg,10.0,20
+source_7-90620,dolospan p fizz tablet,source_7,True,145.60905632772494,117.88129046242776,emcure pharmaceuticals ltd,Unknown,tramadol 37 5mg paracetamol 325mg,22.986317567567568,28
+source_6-75955,dolopolo 650mg strip 10 tablet,source_6,False,22.84,20.1,elfin drug pvt ltd,STRIP,paracetamol acetaminophen 650 0 mg,10.0,30
+source_7-334748,zerodol p tablet,source_7,True,73.0,63.0,ipca laboratories ltd,Unknown,aceclofenac 100mg paracetamol 325mg,10.0,20
+source_6-75988,dolosaid p strip 10 tablet,source_6,True,59.0,59.0,univentis medicare ltd,STRIP,aceclofenac 100 0 mg paracetamol acetaminophen 325 0 mg,10.0,27
+source_7-263613,risdone l tablet,source_7,True,85.0,72.9,intas pharmaceuticals ltd,Unknown,risperidone 2mg trihexyphenidyl 2mg,10.0,6
+source_2-39592,doloact 50mg tablet dt,source_2,True,11.26,9.23,ochoa laboratories ltd,Unknown,diclofenac 50mg,15.0,27
+source_1-144847,nimulid md tablet 15,source_1,True,108.0,95.0,mankind pharma pvt ltd,Strip | Tablet,nimesulide 100mg,15.0,23
+source_6-176551,nimulid ef tablet 2,source_6,True,5.9,5.9,mankind pharmaceuticals ltd,STRIP,nimesulide,2.0,23
+source_2-39812,dolowin tc 4 tablet,source_2,True,162.0,132.84,micro labs ltd,Unknown,aceclofenac 100mg thiocolchicoside 4mg,13.2,27
+source_6-75862,dolokoff syrup 60ml,source_6,True,40.88,35.97,micro labs,BOTTLE,chlorpheniramine codeine,60.0,30
+source_3-5752,oflomac suspension 30ml,source_3,True,39.6,33.66,macleods pharmaceuticals pvt ltd,Bottle SUSPENSION,ofloxacin 50 mg 5ml,30.0,12
+source_6-75826,dolofresh strip 10 tablet,source_6,True,48.0,40.8,smart laboratories pvt ltd,STRIP,aceclofenac 100 0 mg paracetamol acetaminophen 325 0 mg,10.0,27
+source_6-75802,dolodol injection,source_6,True,3035.564,2426.59,ethix healthcare,INJECTION,tramadol,2.0,19
+source_7-238066,piconine 5mg oral suspension,source_7,True,69.0,66.9,medsky healthcare,Unknown,sodium picosulfate 5mg 5ml,100.0,30
+source_6-72392,diazepam 5 mg tablet 1000,source_6,True,15.91,14.0,wings pharmaceuticals pvt ltd,BOTTLE,unknown,1000.0,1
+source_3-6189,paracip 125mg syp 60ml,source_3,False,24.86,23.62,cipla pharmaceutical company ltd,Bottle,paracetamol acetaminophen 125 mg 5 ml,60.0,30
+source_2-39659,dolojust 50mg 325mg tablet,source_2,True,19.48,15.97,mankind pharma ltd,Unknown,diclofenac 50mg paracetamol acetaminophen 325mg,11.4,27
+source_2-85072,nimulid mr 100mg 2mg tablet,source_2,True,119.1,97.66,panacea biotec ltd,Unknown,nimesulide 100mg tizanidine 2mg,23.0,23
+source_5-47170,zerodol 100mg tablet 10,source_5,True,59.3,48.63,ipca laboratories ltd,STRIP,aceclofenac 100 mg,10.0,20
+source_6-50726,cetrizine 10mg knoll strip 10 tablet,source_6,True,21.0,14.7,knoll healthcare pvt ltd,STRIP,cetirizine 10 0 mg,10.0,13
+source_2-39591,doloact 25mg injection,source_2,True,6.66,5.46,ochoa laboratories ltd,Unknown,diclofenac 25mg,7.0,27
+source_6-280455,zerodol th max 4mg strip 10 tablet,source_6,True,190.05,167.24,ipca laboratories,STRIP,aceclofenac 100 0 mg thiocolchicoside 4 0 mg paracetamol acetaminophen 325 0 mg,10.0,27
+source_2-108804,risdone plus tablet,source_2,True,59.5,48.79,intas pharmaceuticals ltd,Unknown,risperidone 3mg trihexyphenidyl benzhexol 2mg,21.0,6
+source_2-39654,dologaba 300mg tablet,source_2,True,114.0,93.48,arwana pharmaceuticals,Unknown,gabapentin 300mg,12.2,3
+source_7-59130,cetrizine 5mg syrup,source_7,True,62.0,60.1,knoll pharmaceuticals ltd,Unknown,cetirizine 5mg,60.0,21
+source_1-65305,dolowin 100 mg tablet 10,source_1,True,60.0,52.8,micro labs ltd,Strip | Tablet,aceclofenac 100mg,10.0,20
+source_1-65283,dolospark tablet 10,source_1,True,49.0,43.12,spark medicare pvt ltd,Strip | Tablet,aceclofenac 100mg paracetamol 325mg,10.0,27
+source_2-39588,dolo pain relief spray,source_2,False,143.65,136.47,micro labs ltd,Unknown,unknown,12.8,1
+source_2-39585,dolo cold 500mg 30mg 10mg tablet,source_2,True,35.0,28.7,micro labs ltd,Unknown,paracetamol acetaminophen 500mg caffeine 30mg phen,17.4,30
+source_2-39647,doloflex sp tablet,source_2,True,85.0,69.7,nova indus pharmaceuticals,Unknown,aceclofenac 100mg paracetamol acetaminophen 325mg,7.6,27
+source_7-334761,zerodol th od 200 mg 8 mg capsule sr,source_7,True,230.0,204.3,ipca laboratories ltd,Unknown,aceclofenac 200mg thiocolchicoside 8mg,5.0,27
+source_6-14480,amlodipine 5mg strip 10 tablet medlife pure generic,source_6,True,25.0,18.75,medlife,STRIP,amlodipine 5 0 mg,10.0,27
+source_7-90628,dolostan tablet,source_7,True,19.9,19.3,stanford biotech pvt ltd,Unknown,mefenamic acid 250mg,10.0,27
+source_6-184564,oflomac injection 100ml,source_6,True,125.4,106.59,macleods pharmaceuticals,BOTTLE,ofloxacin 200 0 mg,100.0,12
+source_6-75895,dolomol 650 mg tablet 10,source_6,False,2.0,2.0,pangea pharma ltd,STRIP,unknown,10.0,1
+source_1-65326,dolozox mr neo tablet 10,source_1,True,65.5,57.64,micro labs ltd,Strip | Tablet,chlorzoxazone 250mg diclofenac 50mg paracetamol 325mg,10.0,27
+source_6-76050,dolowin 100mg strip 10 tablet,source_6,True,60.0,60.0,micro labs,STRIP,aceclofenac 100 0 mg,10.0,20
+source_1-65307,dolowin gel 30 gm,source_1,True,122.0,107.4,micro labs ltd,Tube | Gel,capsaicin 0 025 w w diclofenac diethylamine 1 16 w w menthol 5 w w methyl salicylate 10 w w virgin linseed oil 3 w w,30.0,5
+source_2-39802,dolovent 20mg tablet dt,source_2,True,68.0,55.76,univentis medicare ltd,Unknown,piroxicam 20mg,18.0,17
+source_6-75958,doloquik suspension 60ml,source_6,False,13.75,12.1,micro labs,BOTTLE,paracetamol acetaminophen 250 0 mg,60.0,30
+source_2-39692,dolonex 10mg capsule,source_2,True,69.77,57.21,pfizer ltd,Unknown,piroxicam 10mg,20.0,17
+source_2-137405,zocon ointment,source_2,True,59.63,48.9,fdc ltd,Unknown,fluconazole na,21.0,9
+source_7-90681,doloxicam tablet,source_7,True,227.51800000000003,196.9,troikaa pharmaceuticals ltd,Unknown,piroxicam na,15.0,17
+source_2-136315,zerodol spa 10 tab,source_2,True,131.6,107.91,ipca laboratories ltd,Unknown,unknown,82.0,1
+source_7-90377,dolocaf extra tablet,source_7,False,40.0,38.8,hnf care pvt ltd,Unknown,caffeine 50mg paracetamol 650mg,10.0,29
+source_1-65190,dolomor cold d suspension 60 ml,source_1,True,90.0,79.2,unipark biotech pvt ltd,Bottle | Oral Suspension,chlorpheniramine 2mg paracetamol 250mg phenylephrine 5mg,60.0,30
+source_2-39757,dolosap tablet,source_2,True,100.0,82.0,proliva pharmaceuticals,Unknown,aceclofenac 100mg paracetamol acetaminophen 325mg,32.0,27
+source_6-75750,doloact plus gel 30gm,source_6,True,14.0,12.32,ochoa laboratiories ltd,TUBE,diclofenac linseed oil menthol methyl salicylate,30.0,5
+source_7-90469,dolomas 200mg tablet sr,source_7,True,52.0,45.36,mas life science,Unknown,aceclofenac 200mg,10.0,20
+source_2-88904,oflomac tz 200 mg 600 mg tablet,source_2,True,87.5,71.75,macleods pharmaceuticals pvt ltd,Unknown,ofloxacin 200mg tinidazole 600mg,10.0,12
+source_6-223423,risdone 2mg tablet,source_6,True,41.84,36.82,intas pharmaceuticals ltd,STRIP,risperidone 2 0 mg,10.0,7
+source_1-176600,risdone l tablet 10,source_1,True,85.0,74.8,intas pharmaceuticals ltd,Strip | Tablet,risperidone 2mg trihexyphenidyl 2mg,10.0,6
+source_6-75907,doloneuron nt 100 10mg strip 10 tablet,source_6,True,79.0,69.52,pulse pharmaceuticals pvt ltd,STRIP,nortriptyline 10 0 mg gabapentin 100 0 mg,10.0,3
+source_6-76023,doloswift 20mg capsule,source_6,True,279.0,245.52,ind swift laboratories ltd,STRIP,piroxicam 20 0 mg,10.0,17
+source_2-39742,dolorox 20mg tablet,source_2,True,30.0,24.6,alpic remedies ltd,Unknown,piroxicam 20mg,20.0,17
+source_7-90555,doloqueen 100mg 500mg tablet,source_7,True,15.0,14.5,raddison health care pvt ltd,Unknown,nimesulide 100mg paracetamol 500mg,10.0,23
+source_7-90349,dolo mf junior oral suspension,source_7,True,56.5,50.85,micro labs ltd,Unknown,mefenamic acid 50mg 5ml paracetamol 125mg 5ml,60.0,30
+source_1-42682,cetrizine cold oral suspension,source_1,True,69.0,60.72,knoll healthcare pvt ltd,Bottle | Suspension,cetirizine 2 5mg paracetamol 125mg phenylephrine 2 5mg,60.0,21
+source_1-65139,doloflam gel 30 gm,source_1,True,70.0,61.6,mudransh pharma,Tube | Gel,diclofenac sodium 1 linseed oil 3 menthol 5 methyl salicylate 10,30.0,5
+source_6-75973,doloron gel 10gm,source_6,True,14.0,11.9,agron remedies,TUBE,diclofenac linseed oil menthol methyl salicylate,10.0,5
+source_1-65158,dolokind aa tablet 10,source_1,True,114.5,100.8,mankind pharma pvt ltd,Strip | Tablet,aceclofenac 100mg paracetamol 325mg serratiopeptidase 15mg,10.0,27
+source_7-90487,dolomed 100mg tablet sr,source_7,True,145.60905632772494,117.88129046242776,comed chemicals ltd,Unknown,tramadol 100mg,22.986317567567568,19
+source_7-90437,dolofresh oral suspension,source_7,True,40.0,38.8,smart laboratories pvt ltd,Unknown,aceclofenac 50mg paracetamol 125mg,60.0,30
+source_1-65154,doloja aq 75mg injection,source_1,True,22.99,20.2312,ajapa pharma pvt ltd,Vial | Injection,diclofenac 75mg,1.0,27
+source_5-47739,zocon 150 tablet 3,source_5,True,75.35,61.79,fdc ltd,STRIP,fluconazole 150 mg tinidazole 1000 mg,3.0,9
+source_1-65148,dolofresh tablet 10,source_1,True,44.0,38.72,smart laboratories pvt ltd,Strip | Tablet,aceclofenac 100mg paracetamol 325mg,10.0,27
+source_2-88901,oflomac oz 200 mg 500 mg infusion,source_2,True,136.75,112.14,macleods pharmaceuticals pvt ltd,Unknown,ofloxacin 200mg ornidazole 500mg,80.2,12
+source_6-75963,dolorap tablet,source_6,True,25.0,22.0,veritaz healthcare ltd,STRIP,aceclofenac 100 0 mg paracetamol acetaminophen 500 0 mg,10.0,27
+source_2-39755,dolosan 400mg 325mg tablet,source_2,True,8.7,7.13,abbott,Unknown,ibuprofen 400mg paracetamol acetaminophen 325mg,4.8,30
+source_6-76045,dolowalk injection 3ml,source_6,True,7.0,6.16,invision medi sciences pvt ltd,INJECTION,diclofenac sodium,3.0,27
+source_7-90358,doloage 20mg tablet,source_7,True,32.0,31.0,allenge india,Unknown,piroxicam 20mg,10.0,17
+source_7-90412,dolofan 20mg injection,source_7,True,19.98,19.4,acto pharma pvt ltd,Unknown,piroxicam 20mg,2.0,18
+source_1-65152,dologen tablet 10,source_1,True,78.5,69.08,zerico lifesciences pvt ltd,Strip | Tablet,acetaminophen tramadol,10.0,28
+source_7-90481,dolomed 100 mg 125 mg suspension,source_7,True,10.96,10.6,comed chemicals ltd,Unknown,ibuprofen 100mg paracetamol 125mg,60.0,30
+source_6-75932,dolopac sp 50 10 mg tablet 10,source_6,True,59.0,51.92,bioguard organics ltd,STRIP,diclofenac 50 0 mg serratiopeptidase 10 0 mg,10.0,27
+source_6-75949,dolopee gel 30gm,source_6,False,48.0,48.0,agron remedies,TUBE,diclofenac linseed oil menthol methyl salicylate,30.0,5
+source_1-65120,dolocold adult nasal spray,source_1,False,57.0,50.2,micro labs ltd,Bottle | Nasal Spray,xylometazoline 200mg,1.0,9
+source_6-75747,doloact mouth paint,source_6,True,55.0,48.4,bmw pharmaco india pvt ltd,BOTTLE,beclomethasone clotrimazole,10.0,4
+source_6-75719,dolo 500mg strip 10 tablet,source_6,False,13.58,13.58,micro labs,STRIP,paracetamol acetaminophen 500 0 mg,10.0,30
+source_6-107972,glimepiride 1 mg tablet 10 medlife pure generic,source_6,True,36.0,30.6,tulip lab pvt ltd,STRIP,glimepiride 1 0 mg,10.0,23
+source_6-75839,dolokam dt 20mg tablet,source_6,True,31.0,27.28,zydus healthcare ltd,STRIP,piroxicam 20 0 mg,10.0,17
+source_6-280453,zerodol th 4mg strip 10 tablet,source_6,True,252.7,222.38,ipca laboratories,STRIP,aceclofenac 100 0 mg thiocolchicoside 4 0 mg,10.0,27
+source_6-21080,aspirin protect 100mg strip 10 tablet,source_6,True,89.6,139.084,bayer zydus pharma,STRIP,aspirin acetyl salicylic acid 100 0 mg,10.0,27
