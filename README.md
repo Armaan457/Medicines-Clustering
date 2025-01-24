@@ -1,6 +1,7 @@
 # Medicine Similarity Clustering
 
-This project aims to cluster similar medicines based on their name, salts, and prescription requirements. <br>
+This project aims to cluster similar medicines based on their name, salts, and prescription requirements. 
+
 **Project Report (Also available as a pdf in this repo):** https://docs.google.com/document/d/1JaEvKM-IzPJ_noFAok4ygdRUw5MWlKDC_Djj-0YEOSc/edit?usp=sharing
 
 ## Methodology
