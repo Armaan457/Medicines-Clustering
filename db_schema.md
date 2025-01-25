@@ -27,6 +27,7 @@ This table contains detailed information about products.
 | `source`             | INT            | Foreign Key → `Manufacturers(id)`    |
 | `prescription_required` | BOOLEAN      | Default `FALSE`                      |
 | `retail_price`       | NUMERIC(10, 2) | Not Null |
+| `discounted_price`       | NUMERIC(10, 2) | Not Null |
 | `packaging_form`     | TEXT           |                                      |
 | `quantity_num`       | NUMERIC(10, 2) | Not Null |
 | `cluster`            | INT            | Foreign Key → `Cluster_Summary(cluster_id)` |
