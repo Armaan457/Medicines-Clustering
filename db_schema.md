@@ -55,8 +55,10 @@ This table maps products to the salts they contain.
 | `product_id`| INT       | Foreign Key → `Products(id)` |
 | `salt_name` | TEXT      | Primary Key (with `product_id`) |
 
-**Primary Key**: (`product_id`, `salt_name`)
+**Composite Primary Key**: (`product_id`, `salt_name`)
 
+**Foreign Key Relationships**:
+- `product_id` references `Products(id)`.
 ---
 
 ### 4. **`Cluster_Summary`**
